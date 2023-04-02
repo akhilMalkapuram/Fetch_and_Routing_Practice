@@ -12,7 +12,6 @@ const Header = () => (
       />
       <h1 className="title">Wave</h1>
     </div>
-
     <ul className="nav-items-list">
       <li className="link-item">
         <Link className="route-link" to="/">
